@@ -1,5 +1,7 @@
 # 🎬 Recommender System con SVD e XGBoost
 
+## Author: Nicolò Morini (nicolo.morini2@studio.unibo.it)
+
 Questo progetto implementa e confronta modelli di raccomandazione su due dataset reali: **MovieLens 1M** e **Jester 1**, utilizzando due approcci distinti:
 
 - **SVD (Singular Value Decomposition)** basato su Collaborative Filtering  
@@ -24,3 +26,4 @@ Installa i pacchetti necessari:
 
 ```bash
 pip install -r requirements.txt
+```
